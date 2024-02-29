@@ -15,10 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3-2큰 수의 법칙.cpp">
+    <ClCompile Include="3-1 거스름돈.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
-    <ClCompile Include="3-1거스름돈.cpp">
+    <ClCompile Include="3-2 큰 수의 법칙.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3 숫자 카드 게임.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4 1이 될때까지.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
